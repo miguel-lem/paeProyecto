@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PaeProyecto</string>
+    <string name="nombre">Nombre</string>
+    <string name="direccion">Direccion</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="id">Id</string>
+    <string name="btn_estraer">Extraer todo</string>
+    <string name="btn_buscar">Busqueda por nombre</string>
+    <string name="btn_crear">Crear nuevo</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_anterior">Anterior</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_home">Home</string>
+    <string name="btn_buscarNombre">Buscar por nombre</string>
+    <string name="btn_buscarEditar">Buscar para editar</string>
+    <string name="btn_guardarEditar">Guardar lo editado</string>
+    <string name="btn_foto">Foto</string>
+
+</resources>
